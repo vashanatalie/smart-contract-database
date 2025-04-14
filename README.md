@@ -31,4 +31,3 @@ contract SmartContractDatabase {
     }
     
     function removeContract(addre
-4680
